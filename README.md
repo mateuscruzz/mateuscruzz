@@ -2,7 +2,6 @@
 
 #####  - Cursando Ciência da Computação.<br/>
 #####  - Aprofundando em Java, Spring Framework e SQL.<br/>
-#####  - Aprendendo JavaScript e ferramentas front-end.<br/>
 #####  - Grande interesse por desenvolvimento de jogos.<br/>
 
 # 💻 Tech Stack:
